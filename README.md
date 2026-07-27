@@ -1,5 +1,5 @@
 ### Ronald Wesh
-Full-stack + AI agent developer. I build production-shaped apps — auth, multi-tenancy, real data models — not tutorials.
+Full-stack + AI agent and automations enthsusiast.Currently exploring Security auditing. I build production-shaped apps — auth, multi-tenancy, real data models .
 
 **Recent work**
 
