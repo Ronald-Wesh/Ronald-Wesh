@@ -10,6 +10,6 @@ Full-stack + AI agent and automations enthsusiast.Currently exploring Security a
 - [AI Course Creator](https://github.com/Ronald-Wesh/AI-Course-Creator) — distributed multi-agent system (Google ADK + A2A), researcher/judge/builder microservices
 - [Vanguard](https://github.com/Ronald-Wesh/Vanguard) — creative-agency landing page, React + Tailwind + Vite
 
-**Stack:** React, TypeScript, Node/Express, MongoDB, Python, Django, Google ADK / Vertex AI, Javascript, Postgres 
+**Stack:** React, TypeScript, Node/Express, MongoDB, Python , Google ADK / Vertex AI, Javascript, Postgres ,Git ,SQL ,Docker ,REST APIs
 
 📫 ronaldwaweru8@gmail.com
